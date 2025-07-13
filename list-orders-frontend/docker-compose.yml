@@ -1,0 +1,9 @@
+services:
+  frontend:
+    build:
+      context: .
+    container_name: order_ui_list
+    ports:
+      - "3001:80"
+    environment:
+      - REACT_APP_API_URL=http://127.0.0.1:8080/api

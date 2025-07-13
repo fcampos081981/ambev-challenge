@@ -1,0 +1,15 @@
+/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Domain/bin/Debug/net8.0/OrderService.Domain.deps.json
+/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Domain/bin/Debug/net8.0/OrderService.Domain.dll
+/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Domain/bin/Debug/net8.0/OrderService.Domain.pdb
+/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Domain/obj/Debug/net8.0/OrderService.Domain.csproj.AssemblyReference.cache
+/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Domain/obj/Debug/net8.0/OrderService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Domain/obj/Debug/net8.0/OrderService.Domain.AssemblyInfoInputs.cache
+/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Domain/obj/Debug/net8.0/OrderService.Domain.AssemblyInfo.cs
+/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Domain/obj/Debug/net8.0/OrderService.Domain.csproj.CoreCompileInputs.cache
+/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Domain/obj/Debug/net8.0/OrderService.Domain.dll
+/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Domain/obj/Debug/net8.0/refint/OrderService.Domain.dll
+/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Domain/obj/Debug/net8.0/OrderService.Domain.pdb
+/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Domain/obj/Debug/net8.0/ref/OrderService.Domain.dll
+/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Domain/bin/Debug/net8.0/OrderService.Domain.runtimeconfig.json
+/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Domain/obj/Debug/net8.0/OrderService.Domain.genruntimeconfig.cache
+/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Domain/obj/Debug/net8.0/OrderService.Domain.sourcelink.json

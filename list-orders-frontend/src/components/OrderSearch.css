@@ -1,0 +1,73 @@
+.order-search-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    background: #fff;
+}
+
+.search-form {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.search-form input {
+    flex-grow: 1; /* Faz o input ocupar o espaço disponível */
+}
+
+.found-order-details {
+    margin-top: 1.5rem;
+    padding: 1.5rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.found-order-details h3 {
+    margin-top: 0;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 0.5rem;
+    color: #0056b3;
+}
+
+.detail-item {
+    margin-bottom: 0.5rem;
+}
+
+.found-order-details ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 1rem;
+}
+
+.found-order-details li {
+    padding: 0.5rem;
+    background-color: #e9ecef;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+}
+
+/* Reutilizando as classes de erro e status que já temos */
+.error-message {
+    padding: 1rem;
+    border-radius: 4px;
+    text-align: center;
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+.status {
+    padding: 0.2rem 0.5rem;
+    border-radius: 12px;
+    color: white;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+
+.status.calculated { background-color: #28a745; }
+.status.processing { background-color: #ffc107; color: #333; }
+.status.received   { background-color: #17a2b8; }
+.status.failed     { background-color: #dc3545; }

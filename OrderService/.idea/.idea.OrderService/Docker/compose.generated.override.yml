@@ -1,0 +1,21 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  orderservice.api:
+    build:
+      context: "/Users/fernando/projects/ambev-challenge/OrderService"
+      dockerfile: "OrderService.Api/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/OrderService.Api.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "orderservice.api:dev"
+    ports: []
+    volumes:
+    - "/Users/fernando/projects/ambev-challenge/OrderService/OrderService.Api:/app:rw"
+    - "/Users/fernando/projects/ambev-challenge/OrderService:/src:rw"
+    - "/Users/fernando/.nuget/packages:/home/app/.nuget/packages"
+    working_dir: "/app"

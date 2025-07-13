@@ -1,0 +1,23 @@
+{
+    "externalOrderId": "ORD-2025-789123",
+    "items": [
+        {
+            "productId": "SKU-MCH-KBD-01",
+            "productName": "Teclado Mecânico RGB",
+            "quantity": 1,
+            "unitPrice": 499.90
+        },
+        {
+            "productId": "SKU-MSE-GMR-05",
+            "productName": "Mouse Gamer Sem Fio",
+            "quantity": 1,
+            "unitPrice": 249.50
+        },
+        {
+            "productId": "SKU-MPD-XXL-03",
+            "productName": "Mousepad Gamer Extra Grande",
+            "quantity": 2,
+            "unitPrice": 89.99
+        }
+    ]
+}
